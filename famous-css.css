@@ -534,3 +534,7 @@ tr.animate-row.even {
         text-shadow: 0 0 10px blue;
     }
 }
+h1, h2, h3 {
+    display: inline;
+    color: #ffffff;
+  }
